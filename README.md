@@ -92,10 +92,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 <!------------ Languages stats -------------->
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages Stats </h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYVirajani&theme=algolia" alt="HrugVed" /></p>
+
+</td>
+
+<td>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Top Contributed Repo</h3>
+<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=MYVirajani&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="HrugVed" /></p>
+
 </td>
 </tr>
 </table>
