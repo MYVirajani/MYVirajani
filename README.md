@@ -20,8 +20,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me </h2>
 
 
-- 🌱 I’m currently working as  a Flutter Developer  
-- 💻 Studies at **Department of Computer Engineering,Faculty of Engineering,University of Ruhuna**
+<!-- - 🌱 I’m currently working as  a Flutter Developer  -->
+- 💻 Studied at **Department of Computer Engineering,Faculty of Engineering,University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/MYVirajani](https://github.com/MYVirajani)
 - 📫 How to reach me **yasodhavirajani@gmail.com**
 </td>
