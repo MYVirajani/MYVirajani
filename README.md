@@ -2,7 +2,7 @@
         <img src="https://github.com/MYVirajani/MYVirajani/blob/main/Yasodha Virajani.png" alt="Headline" width=2000px  height=300px/></div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B,+welcome+to+my+Github+page;I'm+Yasodha+Virajani;Computer+Engineering+Undergraduate;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B,+welcome+to+my+Github+page;I'm+Yasodha+Virajani;Computer+Engineering+Fresh+Graduate;" alt="Headline" />
     </div>
     <img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="center">Fresh Graduate at Faculty of Engineering,University of Ruhuna</h3> 
